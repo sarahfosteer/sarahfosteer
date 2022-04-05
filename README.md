@@ -1,6 +1,12 @@
 ## Oiii! Eu sou a Sarah Foster, Desenvolvedora JAVA!
-</div>
-<img align="" height='170px' src="https://github-readme-stats.vercel.app/api?username=sarahfosteer&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"><img align="" height='170px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahfosteer&hide_title=true&layout=compact&langs_count=7&theme=midnight-purple">
+
+<a href="https://github.com/sarahfosteer">
+  <img align="center" height='250px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahfosteer&theme=dracula&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/sarahfosteer">
+ <img align="center" height='250px' src="https://github-readme-stats.vercel.app/api?username=sarahfosteer&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+</a>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Sarah-J" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
