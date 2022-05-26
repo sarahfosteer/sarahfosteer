@@ -1,7 +1,7 @@
 ## Oiii! Eu sou a Sarah Foster, Desenvolvedora JAVA!
 
 <a href="https://github.com/sarahfosteer">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahfosteer&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="181em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahfosteer&layout=compact&langs_count=7&theme=dracula"/>
 </a>
 
 <a href="https://github.com/sarahfosteer">
